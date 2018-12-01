@@ -1,0 +1,51 @@
+{
+  "profile":{
+    "img":"images.jpg",
+    "name":"ANANYA",
+    "rollno":"16NN1A1207",
+    "institute":"Vignan"
+  },
+  "career":{"info":"Seeking an entry-level position to begin my career in a high-level professional environment"},
+  "educational":[
+    {
+      "degree":"b.tech",
+      "institution":"vignan",
+      "yop":"2020"
+    },
+    {
+      "degree":"intermediate",
+      "institution":"Nararyana junior college",
+      "yop":"2016"
+    },
+    {
+      "degree":"s.s.c",
+      "institution":"Noble E.M school",
+      "yop":"2014"
+    }
+  ],
+  "languages":[
+    {
+      "lang":"Telugu"
+    },
+    {
+      "lang":"Hindi"
+    },
+    {
+      "lang":"English"
+    }
+  ],
+  "skills":[
+    {
+      "title":"platforms",
+      "content":"windows,linux"
+    },
+    {
+      "title":"programming languages",
+      "content":"c,c++,java"
+    },
+    {
+      "title":"database",
+      "content":"mysql"
+    }
+  ]
+}
